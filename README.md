@@ -27,6 +27,8 @@ This application is provided to you as an alternative starter project if you do 
 
 - AWS CLI v2, v1 can work but was not tested for this project
 
+- AWS ELASTIC-BEANSTALK
+
 - A RDS database running Postgres.
 
 - A S3 bucket for hosting uploaded pictures.
